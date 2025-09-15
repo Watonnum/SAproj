@@ -10,6 +10,9 @@
 !.yarn/releases
 !.yarn/versions
 
+# dependencies - all node_modules folders
+**/node_modules
+
 # testing
 /coverage
 
